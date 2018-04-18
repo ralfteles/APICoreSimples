@@ -1,0 +1,11 @@
+
+
+Link do projeto:
+ https://neelbhatt.com/2018/01/07/database-first-in-net-core-2-0-step-by-step-angular-4-core-2-0-crud-operation-part-i/
+
+Criar um novo projeto API
+
+--- Instalar o Entity Framework Core
+* pesquisar no Nuget por: Microsoft.EntityFrameworkCore.SqlServer / 
+                          Microsoft.EntityFrameworkCore.Tools / 
+                          Microsoft.EntityFrameworkCore.SqlServer.Design

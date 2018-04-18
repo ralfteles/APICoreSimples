@@ -1,0 +1,6 @@
+C:\Users\ralf_\Documents\GIT\APICoreSimples\Infra\bin\Debug\netcoreapp2.0\Infra.deps.json
+C:\Users\ralf_\Documents\GIT\APICoreSimples\Infra\bin\Debug\netcoreapp2.0\Infra.dll
+C:\Users\ralf_\Documents\GIT\APICoreSimples\Infra\obj\Debug\netcoreapp2.0\Infra.csprojResolveAssemblyReference.cache
+C:\Users\ralf_\Documents\GIT\APICoreSimples\Infra\obj\Debug\netcoreapp2.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\ralf_\Documents\GIT\APICoreSimples\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfoInputs.cache
+C:\Users\ralf_\Documents\GIT\APICoreSimples\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfo.cs
